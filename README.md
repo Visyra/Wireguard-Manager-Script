@@ -33,25 +33,25 @@ The script is compatible with the following Linux distributions:
 
 2. Extract the zip file:
    
-´´´sh
-unzip Wireguard-Manager-Script-main.zip
+   ```sh
+   unzip Wireguard-Manager-Script-main.zip
 
-3. Navigate to the script directory:
+4. Navigate to the script directory:
 
    ```sh
    cd Wireguard-Manager-Script 
 
-4. Add executable permission:
+5. Add executable permission:
 
    ```sh
    sudo chmod +x main.sh
 
-5. Run the script with root privileges:
+6. Run the script with root privileges:
 
    ```sh
    sudo bash main.sh
 
-6. Follow the on-screen prompts to manage your VPN tunnels.
+7. Follow the on-screen prompts to manage your VPN tunnels.
 
 ![plot](./Image.png)
 
