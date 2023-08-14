@@ -48,6 +48,8 @@ The script is compatible with the following Linux distributions:
 
 5. Follow the on-screen prompts to manage your VPN tunnels.
 
+![plot](./Image.png)
+
 ## Disclaimer
 
 This script is provided as-is and might require adjustments for specific distribution versions or package managers.
