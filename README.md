@@ -46,6 +46,11 @@ The script is compatible with the following Linux distributions:
    ```sh
    sudo bash main.sh
 
+   or
+
+   ```sh
+   sudo python3 main.py
+
 6. Follow the on-screen prompts to manage your VPN tunnels.
 
 ![plot](./Image.png)
